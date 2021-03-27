@@ -1,0 +1,32 @@
+
+body{
+margin:0;
+padding:0;
+font-family:oswald;
+background:url(bg.jpg) no-repeat;
+background-size:fill;
+background-attachment:fixed;
+}
+.new{
+	width:280px;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	color: white;
+}     
+div.a
+{
+position:fixed;    
+
+bottom=70%;
+}
+
+.table{
+  position:absolute;
+  bottom: 20%;
+  top: 80%;
+  width: 300px;
+  right:40%;
+  color:white;
+}
